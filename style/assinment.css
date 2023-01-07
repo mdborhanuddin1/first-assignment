@@ -95,7 +95,7 @@ main{
     color: gray;
 }
 .plan-step .plan-img h2{
-    font-size: 20px;
+    font-size: 22px;
 }
 /* shadow section */
 .shadow-pic{
@@ -119,6 +119,14 @@ main{
     font-weight: 600;
     border-radius: 5px;
     border: 0;
+}
+.watch-status{
+    text-align: center;
+    font-size: 14px;
+}
+.watch-status span{
+    font-weight: 500;
+    font-size: 16px;
 }
 /* footer section */
 footer{
