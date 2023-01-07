@@ -34,7 +34,7 @@ header{
 }
 main{
     max-width: 1140px;
-    margin: 200px;
+    margin: 125px 130px;
 }
 /* person section */
 .person-section{
@@ -138,10 +138,10 @@ footer{
     max-width: 1140px;
     display: flex;
     justify-content: space-between;
-    margin: 100px 200px 0 200px;
+    margin: 125px 130px;
 }
 .social-contact{
-    width: 300px;
+    width: 490px;
     margin-top: 100px;
 }
 .subscribe{
@@ -170,7 +170,7 @@ footer{
     border-radius: 5px;
     border: 0;
     background-color: #026bd4;
-    margin-top: 35px;
+    margin-top: 20px;
 }
 .subscribe input{
     background-color: #151414;
